@@ -1,2 +1,2 @@
 # swagger
-[HTMLドキュメント](https://github.com/pbueoka/swagger/dist/index.html)
+[HTMLドキュメント](https://pbueoka.github.io/swagger/dist/index.html)
